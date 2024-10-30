@@ -1,0 +1,81 @@
+[20-Feb-2024 05:51:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 20
+[20-Feb-2024 05:51:13 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php:19
+Stack trace:
+#0 /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php on line 19
+[20-Feb-2024 05:51:26 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 20
+[20-Feb-2024 05:51:26 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php:19
+Stack trace:
+#0 /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php on line 19
+[20-Feb-2024 05:52:24 UTC] PHP Warning:  Undefined property: ConnectionDB::$userName in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:24 UTC] PHP Warning:  Undefined property: ConnectionDB::$userPassword in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:24 UTC] PHP Warning:  Undefined property: ConnectionDB::$dataBase in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:24 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'traitspm'@'localhost' (using password: NO) in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php:19
+Stack trace:
+#0 /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php on line 19
+[20-Feb-2024 05:52:31 UTC] PHP Warning:  Undefined property: ConnectionDB::$userName in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:31 UTC] PHP Warning:  Undefined property: ConnectionDB::$userPassword in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:31 UTC] PHP Warning:  Undefined property: ConnectionDB::$dataBase in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'traitspm'@'localhost' (using password: NO) in /home/traitspm/public_html/teckzy.in/colorcash/admin/include/config.php on line 23
+[20-Feb-2024 05:52:31 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php:19
+Stack trace:
+#0 /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/traitspm/public_html/teckzy.in/colorcash/admin/login.php on line 19
+[20-Feb-2024 11:28:28 Asia/Calcutta] PHP Warning:  Undefined array key "pro_id" in /home/traitspm/public_html/teckzy.in/colorcash/admin/add-to-product.php on line 10
+[20-Feb-2024 07:00:18 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gamelist.php on line 128
+[20-Feb-2024 07:00:19 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gamelist.php on line 128
+[20-Feb-2024 07:00:26 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gamelist.php on line 128
+[20-Feb-2024 07:00:26 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gamelist.php on line 128
+[20-Feb-2024 07:01:02 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gamelist.php on line 128
+[20-Feb-2024 07:01:02 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gamelist.php on line 128
+[20-Feb-2024 07:01:27 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gameReport.php on line 128
+[20-Feb-2024 07:01:27 UTC] PHP Warning:  file_get_contents(https://teckzy.in/colorcash/RestApi/UserApi/bet_list.php): Failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/traitspm/public_html/teckzy.in/colorcash/admin/gameReport.php on line 128
+[01-Mar-2024 12:49:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php:150
+Stack trace:
+#0 /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php(150): mysqli_num_rows()
+#1 {main}
+  thrown in /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php on line 150
+[01-Mar-2024 12:49:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php:150
+Stack trace:
+#0 /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php(150): mysqli_num_rows()
+#1 {main}
+  thrown in /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php on line 150
+[01-Mar-2024 13:38:44 UTC] PHP Warning:  Undefined array key "min" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 11
+[01-Mar-2024 13:38:44 UTC] PHP Warning:  Undefined array key "max" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 12
+[01-Mar-2024 13:39:27 UTC] PHP Warning:  Undefined array key "min" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 11
+[01-Mar-2024 13:39:27 UTC] PHP Warning:  Undefined array key "max" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 12
+[01-Mar-2024 13:40:13 UTC] PHP Warning:  Undefined array key "min" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 11
+[01-Mar-2024 13:40:13 UTC] PHP Warning:  Undefined array key "max" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 12
+[01-Mar-2024 13:40:57 UTC] PHP Warning:  Undefined array key "min" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 11
+[01-Mar-2024 13:40:57 UTC] PHP Warning:  Undefined array key "max" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 12
+[01-Mar-2024 13:43:06 UTC] PHP Warning:  Undefined array key "min" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 11
+[01-Mar-2024 13:43:06 UTC] PHP Warning:  Undefined array key "max" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 12
+[01-Mar-2024 13:44:57 UTC] PHP Warning:  Undefined array key "min" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 11
+[01-Mar-2024 13:44:57 UTC] PHP Warning:  Undefined array key "max" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 12
+[01-Mar-2024 13:46:35 UTC] PHP Parse error:  syntax error, unexpected identifier "comp_id", expecting "," or ";" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 143
+[01-Mar-2024 13:46:58 UTC] PHP Parse error:  syntax error, unexpected identifier "comp_id", expecting "," or ";" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 143
+[01-Mar-2024 13:47:41 UTC] PHP Parse error:  syntax error, unexpected identifier "comp_id", expecting "," or ";" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 143
+[01-Mar-2024 13:47:55 UTC] PHP Parse error:  syntax error, unexpected identifier "comp_id", expecting "," or ";" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 143
+[01-Mar-2024 13:48:49 UTC] PHP Parse error:  syntax error, unexpected identifier "comp_id", expecting "," or ";" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 143
+[01-Mar-2024 13:50:24 UTC] PHP Warning:  Undefined array key "min" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 11
+[01-Mar-2024 13:50:24 UTC] PHP Warning:  Undefined array key "max" in /home/traitspm/public_html/teckzy.in/colorcash/admin/complaints.php on line 12
+[08-Mar-2024 07:18:04 UTC] PHP Parse error:  Unclosed '{' on line 150 in /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php on line 221
+[08-Mar-2024 07:18:21 UTC] PHP Parse error:  Unclosed '{' on line 150 in /home/traitspm/public_html/teckzy.in/colorcash/admin/bonus.php on line 221
+[10-Apr-2024 11:56:06 UTC] PHP Warning:  Undefined array key "u_name" in /home/traitspm/public_html/teckzy.in/colorcash/admin/changepassword.php on line 25
+[10-Apr-2024 11:56:07 UTC] PHP Warning:  Undefined array key "u_name" in /home/traitspm/public_html/teckzy.in/colorcash/admin/changepassword.php on line 25
+[10-Apr-2024 11:56:07 UTC] PHP Warning:  Undefined array key "u_name" in /home/traitspm/public_html/teckzy.in/colorcash/admin/changepassword.php on line 25
